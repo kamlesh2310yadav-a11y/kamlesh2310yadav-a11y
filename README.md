@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Kamlesh Yadav
 
-<!--
-**kamlesh2310yadav-a11y/kamlesh2310yadav-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I'm currently learning and exploring the world of **Artificial Intelligence, Machine Learning, and Data Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Learning
+- 🐍 Python
+- 🤖 Machine Learning
+- 📊 Data Science
+- 🧠 Artificial Intelligence
+- 📈 Data Analysis
+- 🔬 Exploring Generative AI
+
+### 🛠️ Tools & Technologies
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Git & GitHub
+
+### 🎯 My Goal
+To build practical AI/ML projects and continuously improve my skills in Artificial Intelligence and Machine Learning.
+
+### 🔗 Connect With Me
+- LinkedIn
+- Kaggle
