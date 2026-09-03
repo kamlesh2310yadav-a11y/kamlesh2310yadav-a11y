@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kamlesh Yadav
 
-### B.Tech CSE Student | AI/ML Enthusiast
+### B.Tech CSE (AI/ML) Student | AI/ML Enthusiast
 
 I'm currently learning and exploring the world of **Artificial Intelligence, Machine Learning, and Data Science**.
 
